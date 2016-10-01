@@ -1,5 +1,6 @@
 ![geniem-github-banner](https://cloud.githubusercontent.com/assets/5691777/14319886/9ae46166-fc1b-11e5-9630-d60aa3dc4f9e.png)
 # WP Plugin: Define More
+[![Build Status](https://travis-ci.org/devgeniem/wp-define-more.svg?branch=master)](https://travis-ci.org/devgeniem/wp-define-more) [![Latest Stable Version](https://poser.pugx.org/devgeniem/wp-define-more/v/stable)](https://packagist.org/packages/devgeniem/wp-define-more) [![Total Downloads](https://poser.pugx.org/devgeniem/wp-define-more/downloads)](https://packagist.org/packages/devgeniem/wp-define-more) [![Latest Unstable Version](https://poser.pugx.org/devgeniem/wp-define-more/v/unstable)](https://packagist.org/packages/devgeniem/wp-define-more) [![License](https://poser.pugx.org/devgeniem/wp-define-more/license)](https://packagist.org/packages/devgeniem/wp-define-more)
 
 WordPress contains multiple nice options which you can set with `define()`.
 
