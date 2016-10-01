@@ -9,7 +9,7 @@ class PluginTest extends WP_UnitTestCase {
 
   // Test that all our variables really affect the functions we want them to affect
   function test_should_have_custom_upload_max_size() {
-    $this->assertEquals( wp_max_upload_size(), WP_UPLOADS_MAX_SIZE );
+    $this->assertEquals( wp_max_upload_size(), wp_convert_hr_to_bytes( WP_UPLOADS_MAX_SIZE ) );
   }
 
   function test_should_have_custom_upload_dir() {
