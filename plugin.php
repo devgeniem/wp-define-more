@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Define More
  * Description: Adds useful definable constants which are missing from the WP Core
- * Version: 0.0.1
+ * Version: 1.0.2
  * Author: Onni Hakala / Geniem Oy
  * Author URI: https://github.com/onnimonni
  * License: GPLv2
